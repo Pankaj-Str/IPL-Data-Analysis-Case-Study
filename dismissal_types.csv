@@ -1,0 +1,85 @@
+season,batting_team,bowled,caught,caught and bowled,hit wicket,lbw,obstructing the field,retired hurt,run out,stumped
+2008,Chennai Super Kings,11,54,3,0,4,0,0,6,1
+2008,Deccan Chargers,16,58,2,0,5,0,0,9,3
+2008,Delhi Daredevils,16,46,0,0,3,0,0,10,2
+2008,Kings XI Punjab,9,48,4,0,6,0,0,9,3
+2008,Kolkata Knight Riders,17,50,3,0,7,0,0,11,0
+2008,Mumbai Indians,18,43,2,1,4,0,1,9,2
+2008,Rajasthan Royals,22,43,4,0,3,0,0,14,2
+2008,Royal Challengers Bangalore,22,58,3,1,5,0,0,17,0
+2009,Chennai Super Kings,8,50,7,0,3,0,0,11,2
+2009,Deccan Chargers,20,55,1,0,9,0,0,12,4
+2009,Delhi Daredevils,14,48,2,0,5,0,0,4,2
+2009,Kings XI Punjab,14,53,1,0,3,0,0,14,2
+2009,Kolkata Knight Riders,12,47,0,0,4,0,0,6,4
+2009,Mumbai Indians,11,47,3,0,9,0,0,11,1
+2009,Rajasthan Royals,14,54,0,1,5,0,0,12,7
+2009,Royal Challengers Bangalore,19,61,4,0,9,0,0,6,7
+2010,Chennai Super Kings,16,50,3,0,5,0,0,10,5
+2010,Deccan Chargers,21,66,4,0,4,0,1,13,5
+2010,Delhi Daredevils,20,42,2,0,5,0,0,16,3
+2010,Kings XI Punjab,14,47,1,0,6,0,0,9,4
+2010,Kolkata Knight Riders,17,38,3,0,3,0,0,6,4
+2010,Mumbai Indians,16,56,2,0,12,0,1,9,6
+2010,Rajasthan Royals,13,50,1,0,3,0,0,21,6
+2010,Royal Challengers Bangalore,24,46,1,0,3,0,0,9,3
+2011,Chennai Super Kings,10,45,3,0,8,0,0,5,3
+2011,Deccan Chargers,20,48,2,0,7,0,0,7,3
+2011,Delhi Daredevils,18,58,1,0,6,0,0,9,3
+2011,Kings XI Punjab,12,58,3,0,5,0,0,9,1
+2011,Kochi Tuskers Kerala,20,44,2,0,7,0,0,11,2
+2011,Kolkata Knight Riders,13,38,0,0,3,0,0,13,4
+2011,Mumbai Indians,14,50,2,0,5,0,0,5,6
+2011,Pune Warriors,15,52,5,0,2,0,0,7,2
+2011,Rajasthan Royals,18,31,7,0,4,0,0,6,2
+2011,Royal Challengers Bangalore,16,48,4,0,7,0,0,2,2
+2012,Chennai Super Kings,14,66,4,1,0,0,0,13,3
+2012,Deccan Chargers,14,58,4,0,2,0,0,8,3
+2012,Delhi Daredevils,8,66,1,0,5,0,0,10,4
+2012,Kings XI Punjab,19,61,3,0,4,0,0,13,2
+2012,Kolkata Knight Riders,24,49,3,0,9,0,0,6,3
+2012,Mumbai Indians,21,63,3,0,4,0,1,11,4
+2012,Pune Warriors,27,45,4,0,8,0,0,13,7
+2012,Rajasthan Royals,17,53,3,0,2,0,0,6,3
+2012,Royal Challengers Bangalore,22,47,0,1,8,0,0,5,0
+2013,Chennai Super Kings,15,56,2,0,8,0,0,7,2
+2013,Delhi Daredevils,21,72,5,0,7,0,0,6,1
+2013,Kings XI Punjab,21,61,6,0,6,0,0,10,0
+2013,Kolkata Knight Riders,16,58,3,0,9,1,0,12,3
+2013,Mumbai Indians,22,59,6,0,12,0,1,12,2
+2013,Pune Warriors,23,66,2,0,6,0,0,11,3
+2013,Rajasthan Royals,20,57,3,0,8,0,0,4,2
+2013,Royal Challengers Bangalore,13,48,3,0,6,0,0,5,3
+2013,Sunrisers Hyderabad,19,62,4,0,8,0,0,12,2
+2014,Chennai Super Kings,10,43,0,0,3,0,0,8,6
+2014,Delhi Daredevils,17,55,2,0,4,0,0,6,2
+2014,Kings XI Punjab,22,52,3,0,5,0,0,9,4
+2014,Kolkata Knight Riders,19,49,1,0,8,0,0,10,2
+2014,Mumbai Indians,19,54,2,0,2,0,1,10,2
+2014,Rajasthan Royals,16,51,3,0,3,0,0,9,6
+2014,Royal Challengers Bangalore,24,43,0,0,9,0,0,5,1
+2014,Sunrisers Hyderabad,15,44,1,0,2,0,0,10,2
+2015,Chennai Super Kings,21,59,2,0,8,0,0,11,3
+2015,Delhi Daredevils,15,47,3,0,2,0,0,5,4
+2015,Kings XI Punjab,18,66,3,0,5,0,0,10,3
+2015,Kolkata Knight Riders,9,56,0,0,4,0,0,9,0
+2015,Mumbai Indians,10,63,2,0,4,0,1,4,3
+2015,Rajasthan Royals,17,50,3,0,3,0,0,6,2
+2015,Royal Challengers Bangalore,16,44,3,0,2,0,0,12,2
+2015,Sunrisers Hyderabad,16,49,1,0,3,0,0,7,5
+2016,Delhi Daredevils,10,49,1,0,7,0,0,8,2
+2016,Gujarat Lions,24,56,3,0,5,0,0,9,5
+2016,Kings XI Punjab,20,50,0,0,8,0,0,10,3
+2016,Kolkata Knight Riders,10,42,4,0,8,0,0,10,2
+2016,Mumbai Indians,12,59,1,0,5,0,0,6,1
+2016,Rising Pune Supergiants,10,39,2,0,1,0,1,9,6
+2016,Royal Challengers Bangalore,12,45,1,0,4,0,0,8,1
+2016,Sunrisers Hyderabad,13,60,2,3,3,0,0,14,2
+2017,Delhi Daredevils,20,53,5,0,7,0,0,9,3
+2017,Gujarat Lions,17,47,3,0,8,0,0,8,3
+2017,Kings XI Punjab,19,51,2,0,8,0,0,2,1
+2017,Kolkata Knight Riders,12,56,3,1,6,0,0,6,4
+2017,Mumbai Indians,12,66,3,0,11,0,1,13,2
+2017,Rising Pune Supergiant,19,48,4,0,8,0,0,8,3
+2017,Royal Challengers Bangalore,21,58,0,0,6,0,0,10,2
+2017,Sunrisers Hyderabad,11,40,4,0,2,0,0,2,3
